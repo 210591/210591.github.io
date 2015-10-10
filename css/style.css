@@ -12,7 +12,7 @@ body {
 .cl { font-size: 0; line-height: 0; height: 0; clear: both; }
 
 a img { border: 0; }
-a { color: #9fea00; text-decoration: none; }
+a { color: red; text-decoration: none; }
 a:hover { text-decoration: underline; cursor: pointer;}
 
 .left { float: left; display: inline; }
@@ -104,4 +104,20 @@ a.watch-now:hover {text-decoration: none;}
 
 #sign {
 	margin-left: 870px
+}
+
+span {
+    font-size: 125%;
+}
+p {
+    font-size: 100%;
+}
+
+
+#vids {
+	font-size: 100%
+}
+
+a {
+	font-size: 100%
 }
